@@ -2,7 +2,7 @@ import string
 # some macros
 USER_NAME = "root"
 PASSWORD = "203761333"
-DB_NAME = "wiki-project-db"
+DB_NAME = "wikidb"
 
 SQL_FILE = "hewiki-20180201-page.sql"
 XML_FILE = "hewiki-20180201-pages-articles.xml"
