@@ -1,4 +1,4 @@
-from src.macros import *
+from macros import *
 import mysql.connector
 import argparse
 
